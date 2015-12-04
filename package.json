@@ -1,0 +1,26 @@
+{
+  "name": "jsreport-azure-storage",
+  "version": "0.1.0",
+  "description": "jsreport extension adding support for storing blobs in azure storage",
+  "scripts": {
+    "test": "standard"
+  },
+  "homepage": "https://github.com/jsreport/jsreport-azure-storage",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsreport/jsreport-azure-storage.git"
+  },
+  "keywords": [
+    "jsreport",
+    "azure"
+  ],
+  "dependencies": {
+    "azure-storage": "^0.6.0",
+    "q": "^1.4.1"
+  },
+  "author": "Jan Blaha",
+  "devDependencies": {
+    "eslint": "^1.6.0",
+    "standard": "^5.4.1"
+  }
+}
