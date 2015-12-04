@@ -40,3 +40,4 @@ You can pass these options into jsreport in following ways:
 var jsreport = require('jsreport-core')
 jsreport.use(require('jsreport-azure-storage')({}))
 ```
+
