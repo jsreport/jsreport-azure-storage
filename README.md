@@ -6,11 +6,11 @@
 
 Some of the jsreport extensions requires a blob storage for storing binary objects. This implementation stores these objects like output reports inside cost effective azure blob storage.
 
-##Installation
+## Installation
 
 > npm install jsreport-azure-storage
 
-##Configuration
+## Configuration
 
 Required options are:
 - `accountName`:  azure blob storage account name
