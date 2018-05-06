@@ -25,18 +25,14 @@ You can pass these options into jsreport in following ways:
 ```js
 {
 	"blobStorage": {  
-		"provider": "azure-storage", 
-		"accountName": "...", 
-		"accountKey": "...", 
-		"container": "..."
-	 }
-}
-```	
-- Through extension name in global configuration
-```js
-{
+		"provider": "azure-storage"
+	},
 	"extensions": {
-		"azure-storage": { }
+		"azure-storage": {
+			"accountName": "...",
+			"accountKey": "...",
+			"container": "..."
+		}
 	}
 }
 ```
@@ -46,4 +42,3 @@ You can pass these options into jsreport in following ways:
 var jsreport = require('jsreport-core')({ blobStorage: { provider: 'azure-storage' } })
 jsreport.use(require('jsreport-azure-storage')({}))
 ```
-
