@@ -1,3 +1,4 @@
+
 # jsreport-azure-storage
 [![NPM Version](http://img.shields.io/npm/v/jsreport-azure-storage.svg?style=flat-square)](https://npmjs.com/package/jsreport-azure-storage)
 [![Build Status](https://travis-ci.org/jsreport/jsreport-azure-storage.png?branch=master)](https://travis-ci.org/jsreport/jsreport-azure-storage)
@@ -5,6 +6,12 @@
 > jsreport extension adding support for storing blobs in azure storage
 
 Some of the jsreport extensions requires a blob storage for storing binary objects. This implementation stores these objects like output reports inside cost effective azure blob storage.
+
+See the blob sorages general documentation
+https://jsreport.net/learn/blob-storages
+
+See how to persist jsreport output reports
+https://jsreport.net/learn/reports
 
 ## Installation
 
