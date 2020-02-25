@@ -15,7 +15,7 @@
     "azure"
   ],
   "dependencies": {
-    "azure-storage": "2.8.1"
+    "azure-storage": "2.10.3"
   },
   "engines": {
     "node": ">=8.9"
