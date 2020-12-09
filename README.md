@@ -1,7 +1,7 @@
 
 # jsreport-azure-storage
 [![NPM Version](http://img.shields.io/npm/v/jsreport-azure-storage.svg?style=flat-square)](https://npmjs.com/package/jsreport-azure-storage)
-[![Build Status](https://travis-ci.org/jsreport/jsreport-azure-storage.png?branch=master)](https://travis-ci.org/jsreport/jsreport-azure-storage)
+[![Build Status](https://travis-ci.com/jsreport/jsreport-azure-storage.png?branch=master)](https://travis-ci.org/jsreport/jsreport-azure-storage)
 
 > jsreport extension adding support for storing blobs in azure storage
 
