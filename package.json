@@ -1,6 +1,6 @@
 {
   "name": "jsreport-azure-storage",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "jsreport extension adding support for storing blobs in azure storage",
   "scripts": {
     "test": "mocha --timeout=10000 test&& standard"
