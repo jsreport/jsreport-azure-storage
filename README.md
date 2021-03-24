@@ -19,11 +19,11 @@ https://jsreport.net/learn/reports
 
 ## Configuration
 
-Required options are:
+You need to specify either `accountName` and `accountKey` or `connectionString` to succesfully connect to your blob storage.
+
 - `accountName`:  azure blob storage account name
 - `accountKey`:  azure blob storage account key
-
-Optionally you can set
+- `connectionString`: azure blob storage connection string
 - `container`: azure blob storage container, this defaults to jsreport
 
 You can pass these options into jsreport in following ways:
