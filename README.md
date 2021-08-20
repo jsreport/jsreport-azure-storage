@@ -1,3 +1,5 @@
+**⚠️ This repository has been moved to the monorepo [jsreport/jsreport](https://github.com/jsreport/jsreport)**
+--
 
 # jsreport-azure-storage
 [![NPM Version](http://img.shields.io/npm/v/jsreport-azure-storage.svg?style=flat-square)](https://npmjs.com/package/jsreport-azure-storage)
